@@ -1,6 +1,11 @@
 ## Welcome to GitHub Pages
 
-**This is bold.** _And this is italic!_
+# Amin's First CS193 Homework
+
+My Favorite Things about CS193 thus Far:
+- **No Professor** - Just Students!
+- _Chill_ Lecture Environment
+- We'll be learning new things!
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
